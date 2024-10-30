@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Matías Campos</h1>
-<h3 align="center">Desarrollador FullStack MERN</h3>
+<h3 align="center">Desarrollador</h3>
 
 - 📫 Me pueden contactar por aquí **matias98cs@gmail.com**
 
